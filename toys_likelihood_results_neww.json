@@ -1,0 +1,402 @@
+[
+    {
+        "toy": 0,
+        "significance": 3.178549933297829
+    },
+    {
+        "toy": 1,
+        "significance": 1.2016475258977959
+    },
+    {
+        "toy": 2,
+        "significance": 5.354368843495377
+    },
+    {
+        "toy": 3,
+        "significance": 3.3677232049369556
+    },
+    {
+        "toy": 4,
+        "significance": 4.876879962257936
+    },
+    {
+        "toy": 5,
+        "significance": 4.778230580970131
+    },
+    {
+        "toy": 6,
+        "significance": 4.398255262367157
+    },
+    {
+        "toy": 7,
+        "significance": 1.9881586497181667
+    },
+    {
+        "toy": 8,
+        "significance": 4.926527355786066
+    },
+    {
+        "toy": 9,
+        "significance": 3.2500901579737067
+    },
+    {
+        "toy": 10,
+        "significance": 3.9020062062701295
+    },
+    {
+        "toy": 11,
+        "significance": 3.837458830010615
+    },
+    {
+        "toy": 12,
+        "significance": 3.7625259871525043
+    },
+    {
+        "toy": 13,
+        "significance": 2.4080029162521734
+    },
+    {
+        "toy": 14,
+        "significance": 2.5742004972778534
+    },
+    {
+        "toy": 15,
+        "significance": 2.216181720903823
+    },
+    {
+        "toy": 16,
+        "significance": 2.7948019114206586
+    },
+    {
+        "toy": 17,
+        "significance": 6.019881463567705
+    },
+    {
+        "toy": 18,
+        "significance": 4.040771034089124
+    },
+    {
+        "toy": 19,
+        "significance": 4.5500522772263245
+    },
+    {
+        "toy": 20,
+        "significance": 3.6292046050166356
+    },
+    {
+        "toy": 21,
+        "significance": 4.149336322727025
+    },
+    {
+        "toy": 22,
+        "significance": 4.549153460115869
+    },
+    {
+        "toy": 23,
+        "significance": 3.9782916621750872
+    },
+    {
+        "toy": 24,
+        "significance": 4.999645831205142
+    },
+    {
+        "toy": 25,
+        "significance": 2.748338986144169
+    },
+    {
+        "toy": 26,
+        "significance": 2.6613509273260765
+    },
+    {
+        "toy": 27,
+        "significance": 3.815536361962135
+    },
+    {
+        "toy": 28,
+        "significance": 4.885539514075143
+    },
+    {
+        "toy": 29,
+        "significance": 4.545804516797085
+    },
+    {
+        "toy": 30,
+        "significance": 3.742952252734496
+    },
+    {
+        "toy": 31,
+        "significance": 5.120532449886409
+    },
+    {
+        "toy": 32,
+        "significance": 2.1714722847788583
+    },
+    {
+        "toy": 33,
+        "significance": 3.7706028433126866
+    },
+    {
+        "toy": 34,
+        "significance": 4.076200575739678
+    },
+    {
+        "toy": 35,
+        "significance": 3.8255325060326606
+    },
+    {
+        "toy": 36,
+        "significance": 4.020998442006747
+    },
+    {
+        "toy": 37,
+        "significance": 4.1670323032584005
+    },
+    {
+        "toy": 38,
+        "significance": 3.4232486220797433
+    },
+    {
+        "toy": 39,
+        "significance": 2.656334087294021
+    },
+    {
+        "toy": 40,
+        "significance": 2.3368011956314874
+    },
+    {
+        "toy": 41,
+        "significance": 3.7716618274348797
+    },
+    {
+        "toy": 42,
+        "significance": 4.735601139247936
+    },
+    {
+        "toy": 43,
+        "significance": 4.001839698413092
+    },
+    {
+        "toy": 44,
+        "significance": 4.816144255580973
+    },
+    {
+        "toy": 45,
+        "significance": 3.81233609324942
+    },
+    {
+        "toy": 46,
+        "significance": 3.6708486545478083
+    },
+    {
+        "toy": 47,
+        "significance": 4.956372537099424
+    },
+    {
+        "toy": 48,
+        "significance": 3.837859238850013
+    },
+    {
+        "toy": 49,
+        "significance": 1.9480971141920267
+    },
+    {
+        "toy": 50,
+        "significance": 4.35053383210847
+    },
+    {
+        "toy": 51,
+        "significance": 5.971509087984261
+    },
+    {
+        "toy": 52,
+        "significance": 3.7515134000221253
+    },
+    {
+        "toy": 53,
+        "significance": 4.253276802799076
+    },
+    {
+        "toy": 54,
+        "significance": 2.0231852582531302
+    },
+    {
+        "toy": 55,
+        "significance": 5.118937052247925
+    },
+    {
+        "toy": 56,
+        "significance": 4.371631290330848
+    },
+    {
+        "toy": 57,
+        "significance": 3.9724197186601846
+    },
+    {
+        "toy": 58,
+        "significance": 5.492550397425576
+    },
+    {
+        "toy": 59,
+        "significance": 4.160247823545936
+    },
+    {
+        "toy": 60,
+        "significance": 4.817659729734139
+    },
+    {
+        "toy": 61,
+        "significance": 4.449989728413464
+    },
+    {
+        "toy": 62,
+        "significance": 5.292588133653305
+    },
+    {
+        "toy": 63,
+        "significance": 4.063572568399652
+    },
+    {
+        "toy": 64,
+        "significance": 1.99027520358152
+    },
+    {
+        "toy": 65,
+        "significance": 4.637510845659163
+    },
+    {
+        "toy": 66,
+        "significance": 3.0198991534771835
+    },
+    {
+        "toy": 67,
+        "significance": 4.491560808195429
+    },
+    {
+        "toy": 68,
+        "significance": 1.8225465036446482
+    },
+    {
+        "toy": 69,
+        "significance": 3.4034913891776877
+    },
+    {
+        "toy": 70,
+        "significance": 4.2570290731876765
+    },
+    {
+        "toy": 71,
+        "significance": 3.688487749335968
+    },
+    {
+        "toy": 72,
+        "significance": 4.204550709641323
+    },
+    {
+        "toy": 73,
+        "significance": 2.62316933110824
+    },
+    {
+        "toy": 74,
+        "significance": 5.1343052592449006
+    },
+    {
+        "toy": 75,
+        "significance": 4.763472997893503
+    },
+    {
+        "toy": 76,
+        "significance": 3.972406059543142
+    },
+    {
+        "toy": 77,
+        "significance": 3.4252640178981903
+    },
+    {
+        "toy": 78,
+        "significance": 1.521623553929552
+    },
+    {
+        "toy": 79,
+        "significance": 4.462580513717281
+    },
+    {
+        "toy": 80,
+        "significance": 3.592949543050794
+    },
+    {
+        "toy": 81,
+        "significance": 3.5103472474904773
+    },
+    {
+        "toy": 82,
+        "significance": 5.036645612888521
+    },
+    {
+        "toy": 83,
+        "significance": 3.438922902197311
+    },
+    {
+        "toy": 84,
+        "significance": 3.9408041590231484
+    },
+    {
+        "toy": 85,
+        "significance": 2.980974402319845
+    },
+    {
+        "toy": 86,
+        "significance": 3.2859650822037954
+    },
+    {
+        "toy": 87,
+        "significance": 3.6513511945488974
+    },
+    {
+        "toy": 88,
+        "significance": 5.600077744463446
+    },
+    {
+        "toy": 89,
+        "significance": 5.179815566915948
+    },
+    {
+        "toy": 90,
+        "significance": 4.478238509485328
+    },
+    {
+        "toy": 91,
+        "significance": 3.8701106098369276
+    },
+    {
+        "toy": 92,
+        "significance": 3.529088610958505
+    },
+    {
+        "toy": 93,
+        "significance": 3.5630447851469613
+    },
+    {
+        "toy": 94,
+        "significance": 2.3585612573323687
+    },
+    {
+        "toy": 95,
+        "significance": 3.9315553144637803
+    },
+    {
+        "toy": 96,
+        "significance": 4.897994485799418
+    },
+    {
+        "toy": 97,
+        "significance": 4.61533036088247
+    },
+    {
+        "toy": 98,
+        "significance": 3.1232070611537166
+    },
+    {
+        "toy": 99,
+        "significance": 3.1972744338126375
+    }
+]
